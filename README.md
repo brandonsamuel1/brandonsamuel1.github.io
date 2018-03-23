@@ -10,5 +10,5 @@ YelpCamp is a application that allows registered users to create campsites by op
 
 ## Jungle
 
-Jungle is an eCommerce site where users can buy items they have interest in. They can search by categories and expect a safe and secure credit card checkout. Admin users can create new categories. Build with Ruby on Rails and PostgreSQL. Check it out here
+Jungle is an eCommerce site where users can buy items they have interest in. They can search by categories and expect a safe and secure credit card checkout. Admin users can create new categories. Build with Ruby on Rails and PostgreSQL. Check it out [here](https://secure-basin-32261.herokuapp.com/)
 
